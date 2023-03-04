@@ -20,11 +20,10 @@ body {
   border-radius: 12px;
 }
 
-.titlle {
+.title {
   position: relative;
   width: 164.46px;
   height: 29px;
-  left: 15%;
   top: 30px;
   font-family: "Montserrat";
   font-style: normal;
@@ -34,10 +33,11 @@ body {
   color: #4f4f4f;
 }
 
-.subtitlle {
+.subtitle {
   position: relative;
-  width: 192.04px;
+  width: 150px;
   height: 22px;
+  right: 15%;
   top: 70px;
   font-family: "Montserrat";
   font-style: normal;
@@ -53,7 +53,6 @@ body {
   height: 280px;
   left: 15px;
   top: 15px;
-  background: url(./img/image.jpg);
   border-radius: 12px;
   background-repeat: no-repeat;
 }
@@ -109,6 +108,6 @@ body {
   height: 9.6px;
   left: 200px;
   top: 11px;
-  background: #ab5e5e;
+  background: #c4c4c4;
   border-radius: 12px;
 }
