@@ -22,9 +22,8 @@ body {
 
 .title {
   position: relative;
-  width: 164.46px;
-  height: 29px;
-  top: 30px;
+  padding-top: 20px;
+  left: 5%;
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
@@ -35,16 +34,32 @@ body {
 
 .subtitle {
   position: relative;
-  width: 150px;
-  height: 22px;
-  right: 15%;
-  top: 70px;
+  width: 250px;
+  right: 10%;
+  top: 80px;
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
   line-height: 22px;
-  color: #828282;
+  color: #000000;
+}
+
+.contatos {
+  display: flex;
+}
+
+.lista {
+  position: relative;
+  width: 194px;
+  margin-left: 10px;
+  top: 52px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
 }
 
 .imagem {
