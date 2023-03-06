@@ -11,7 +11,7 @@ body {
 .group2 {
   display: flex;
   justify-content: center;
-  position: absolute;
+  position: relative;
   width: 1046px;
   height: 311px;
   left: 197px;
